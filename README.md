@@ -22,11 +22,15 @@ Las energías renovables en la actualidad son uno de los principales avances tec
 
 La energía solar fotovoltaica es aquella que se obtiene a partir del sol en forma de radiación electromagnética, es decir del calor, la luz y rayos ultravioletas, mediante la instalación de paneles solares que generan energía a electricidad por sí solos.
 
+![Energía solar](https://estaticos-cdn.elperiodico.com/clip/a959ff70-0bd6-4d1f-bee9-fc038694b323_source-aspect-ratio_default_0.jpg) 
+
 La energía eólica este tipo de energía renovable tiene 2 tipos la energía eólica marina y la energía eólica terrestre:
 
 La energía eólica marina es aquella generada por la agrupación de molinos eólicos o aerogeneradores que flotan en el mar. Su gran ventaja es que al estar en el mar los vientos son más estables. Su funcionamiento es el siguiente: .El viento hace girar las hélices del molino, y este convierte la energía cinética en electricidad y dicha electricidad se transporta mediante cables submarinos hasta la costa, una vez llega a la costa pasa a una subestación donde se transforma y luego las líneas eléctricas la llevan hasta los hogares, etc.
 
 La energía eólica terrestre es aquella generada por la agrupación de molinos eólicos que normalmente se ubican en prados o montañas y generan energía con el movimiento de sus hélices y de la misma manera que la energía eólica marina son transportadas a través de cables hasta las subestaciones para distribuirla.
+
+![Energía eólica](https://verdeyazul.diarioinformacion.com/wp-content/uploads/2021/12/energia-eolica-1.jpg) 
 
 La energía hidráulica es aquella que aprovecha la fuerza del agua en movimiento para producir electricidad. Existen 2 tipos de energía hidráulica:
 
@@ -34,6 +38,7 @@ Centrales hidroeléctricas de embalse, mediante la construcción de presas, se f
 
 Centrales hidroeléctricas de agua fluyente son las que se emplean en ríos de caudal regular que pasan por relieves muy accidentados, desviando el cauce del agua hacía las turbinas que generan la corriente.
 
+![Energía hidroeléctica](https://www.enel.com/content/dam/enel-com/immagini/master-azienda_2400x1160/storie_2400x1160/diga-acqua_2400x1160.jpg) 
 
 ## Re-descubriendo la hibridacion: Realidad virtual
 
