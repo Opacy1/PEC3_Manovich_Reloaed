@@ -59,7 +59,9 @@ A continuación una imagen de como son las gafas de realidad virtual hoy en día
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 *https://www.gob.mx/semarnat/articulos/beneficios-de-usar-energias-renovables-172766
+
 *https://www.repsol.com/es/conocenos/que-hacemos/desarrollo-energias-renovables/windfloat/index.cshtml
+
 *https://www.iberdrola.com/innovacion/realidad-virtual
 
 
